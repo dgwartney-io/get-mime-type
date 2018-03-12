@@ -24,4 +24,15 @@ magic file from /usr/share/file/magic
 
 ````
 $ ./get-mime.sh
+
+40031982004_ab8e12544b_h.jpg is mime-type image/jpeg
+foo.txt is mime-type text/plain
+hello-world.txt is mime-type text/plain
+index.html is mime-type text/html
+note.xml is mime-type application/xml
+pdf.pdf is mime-type application/pdf
+refinery-2-800px.png is mime-type image/png
+sir-william-henry-perkins-180th-birthday-5924016089989120.4-s.png is mime-type image/png
+tar-file.tar is mime-type application/x-tar
+zipped-files.gz is mime-type application/x-gzip
 ````
