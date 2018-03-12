@@ -20,8 +20,6 @@ file-5.04
 magic file from /usr/share/file/magic
 ````
 
-## Assumptions
-
 ## To run the example in this repository:
 
 ````
